@@ -24,11 +24,11 @@ Bu project — Figma’da chizilgan dizayn asosida HTML, CSS va JavaScript yorda
 ---
 
 ## 🌍 Jonli sayt / Live Demo
-🔗 [Saytni ko‘rish / View Website](https://qalandarovshokhjahon.github.io/techwebby-practice-website/)
+🔗 [Saytni ko‘rish / View Website](https://qalandarovshokhjahon.github.io/figma-project/)
 
 ---
 
 ## 👨‍💻 Muallif / Author
-**Shokhjahon** — Front-End dasturchi & [TechWebby](https://t.me/techWebby) asoschisi  
+**Shokhjahon** — Front-End dasturchi & [TechWebby](https://www.techwebby.uz) asoschisi  
 > “Har bir loyiha — yangi bilim sari qadam.” / "Building knowledge, one project at a time."
 
